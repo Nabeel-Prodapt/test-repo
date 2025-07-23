@@ -1,0 +1,21 @@
+Development Tools: 
+
+	1. JDK: 8/17 +    ✔️
+
+	2. Eclipse / STS / IntelliJ   ✔️
+
+	3. Database: MySQL / MongoDB   ⚠️ 
+
+ 	4. tomcat server: servlet / JSP -> optional -> sir guides ⚠️
+
+	5. Postman: API testing  ✔️
+
+	6. PowerShell: WSL ✔️
+
+	7. Git Bash: creating and updating the repo everyday ✔️
+	
+	8. Copilot / Open AI / Gemini: AI for prompting ✔️
+
+	9. NodeJS: latest version ✔️
+
+	10. VS Code: for designing the front end ✔️
